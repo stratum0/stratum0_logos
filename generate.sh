@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 DEFAULT_WIDTH_PNG=500
 
 for dir in $(ls -d */);
